@@ -27,14 +27,13 @@ const Todo = () => {
     </>
   );
 };
+
 const Login = () => {
   return <p>這是登入頁面</p>;
 };
 const Register = () => {
   return <p>這是註冊頁面</p>;
 };
-
-
 
 function App() {
   return (
